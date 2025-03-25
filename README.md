@@ -15,7 +15,9 @@
 
 ## 📽️ Project Demo (Video)  
 
-![ELMS Demo](https://github.com/user-attachments/assets/44284540-8071-4fdd-aa49-8625a22da86d)  
+https://github.com/user-attachments/assets/6ce4af9c-30de-4dd3-8522-e1ca3d896f3e
+
+
 
 ---
 
