@@ -7,7 +7,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
-**ELMS (E-Learning Management System)** is a modern virtual classroom platform designed to facilitate **seamless online learning, collaboration, and communication** between students, teachers, and administrators. ELMS provides **live classes, document sharing, messaging, and course management**—all in one platform.
+**ELMS (E-Learning Management System)** is a comprehensive virtual classroom platform designed to enhance **online learning, collaboration, and communication** between students, teachers, and administrators. It offers a **seamless learning experience** by integrating **live classes, course management, document sharing, real-time messaging, quizzes, assignments, and a scheduling system**—all within a single platform. With a **user-friendly interface**, ELMS streamlines **remote education**, making it more **interactive and efficient**.
 
 📂 [Frontend Repository](https://github.com/Mazen-Barakat/elms-front) 
 
@@ -31,13 +31,14 @@ https://github.com/user-attachments/assets/6ce4af9c-30de-4dd3-8522-e1ca3d896f3e
 
 ## 🌟 Features  
 
-✅ **Live Video Classes** – WebRTC-powered live classes with real-time interaction  
-✅ **Course Management** – Teachers can create, update, and manage courses  
-✅ **Instant Messaging** – Chat with students and teachers in real-time (powered by WebSockets)  
-✅ **File Sharing** – Upload and share PDFs, presentations, and assignments  
-✅ **Attendance Tracking** – Automatic logging of attendance for online classes  
-✅ **Assignment Submission** – Students can submit assignments directly on the platform  
-✅ **Admin Dashboard** – Manage users, monitor activities, and analyze platform usage  
+🎥 **Live Classes** – Seamless virtual learning with real-time interaction.  
+📂 **Course Management** – Create, manage, and organize courses efficiently.  
+📄 **Document Sharing** – Upload and distribute learning materials.  
+💬 **Real-time Messaging** – Instant communication between users.  
+📝 **Quizzes & Assignments** – Interactive assessments to enhance learning.  
+📅 **Scheduling System** – Plan and manage classes, deadlines, and events.  
+📊 **User-friendly Dashboard** – Intuitive interface for smooth navigation.  
+  
 
 ---
 
